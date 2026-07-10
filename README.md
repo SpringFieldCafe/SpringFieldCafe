@@ -36,35 +36,29 @@
   </picture>
 </p>
 ### 🛠️ My Skills
----
-#### <img src="https://img.icons8.com/dusk/64/null/program.png" width="22"/> Languages
+
+#### <img src="https://img.icons8.com/dusk/64/null/program.png" width="22"/>  Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,cmake,latex,md,html,ts,js,css" />
 </p>
----
-#### <img src="https://img.icons8.com/2266EE/code" width="22"/> Frameworks
+
+#### <img src="https://img.icons8.com/2266EE/code" width="22"/>  Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,qt,django,flask,fastapi,ros,astro,react,vue" />
 </p>
----
-#### <img src="https://img.icons8.com/dusk/64/null/maintenance.png" width="22"/>  Dev Tools 
+
+#### <img src="https://img.icons8.com/dusk/64/null/maintenance.png" width="22"/>  Dev \ Creative Tools 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vim,vscode,arduino,docker,kubernetes,regex,cloudflare,kafka,git,linux,postgres,anaconda,obsidian,powershell,bash,npm,pnpm,githubactions,redis,mongodb,sqlite,nodejs,nginx" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,obsidian,powershell,bash,npm,pnpm,githubactions,redis,mongodb,sqlite,nodejs,nginx" />
-</p>
----
-#### 🎨 Creative Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,au,blender,unreal&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=vim,vscode,arduino,docker,kubernetes,regex,cloudflare,kafka,git,linux,postgres,anaconda,obsidian,powershell,bash,npm,pnpm,githubactions,redis,mongodb,sqlite,nodejs,nginx,ps,ai,ae,pr,au,blender,unreal" />
 </p>
 
----
+
+
+
+
 
 
 
