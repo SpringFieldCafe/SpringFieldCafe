@@ -52,7 +52,7 @@
 #### <img src="https://img.icons8.com/dusk/64/null/maintenance.png" width="22"/>  Dev Tools 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vim,vscode,arduino,docker,kubernetes,regex,cloudflare,kafka,git,linux,postgres" />
+  <img src="https://skillicons.dev/icons?i=vim,vscode,arduino,docker,kubernetes,regex,cloudflare,kafka,git,linux,postgres,anaconda,obsidian,powershell,bash,npm,pnpm,githubactions,redis,mongodb,sqlite,nodejs,nginx" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=anaconda,obsidian,powershell,bash,npm,pnpm,githubactions,redis,mongodb,sqlite,nodejs,nginx" />
