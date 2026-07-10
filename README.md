@@ -1,16 +1,80 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1003&width=400&height=70&lines=Hi!+I'm+SpringFieldCafe!;Welcome+to+my+profile!)](https://git.io/typing-svg)<img src="./gif/wave.gif" width="70" height="70" alt="wave">
+<p align="center">
+  <a href="https://springfieldcafe.github.io/404/">
+    <img src="https://img.shields.io/badge/Blog-Visit-8A2BE2?logo=porkbun&logoColor=white" />
+  </a>
+  <a href="https://space.bilibili.com/493693137">
+    <img src="https://img.shields.io/badge/Bilibili-Follow-00A1D6?logo=bilibili&logoColor=white" />
+  </a>
+  <a href="https://www.zhihu.com/people/a-zhe-31-50">
+    <img src="https://img.shields.io/badge/Zhihu-Read-0084FF?logo=zhihu&logoColor=white" />
+  </a>
+  <a href="https://blog.csdn.net/qq_40328089">
+    <img src="https://img.shields.io/badge/CSDN-Articles-FC5531?logo=csdn&logoColor=white" />
+  </a>
+  <a href="mailto:2574703489@qq.com">
+    <img src="https://img.shields.io/badge/Email-Connect-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://count.getloli.com/@SpringFieldCafe-GitHub-Profile?theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Counter" />
+</p>
 
-<!--
-**SpringFieldCafe/SpringFieldCafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpringFieldCafe/SpringFieldCafe/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpringFieldCafe/SpringFieldCafe/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/SpringFieldCafe/SpringFieldCafe/output/github-snake.svg" />
+  </picture>
+</p>
+### 🛠️ My Skills
+---
+#### <img src="https://img.icons8.com/dusk/64/null/program.png" width="22"/> Languages
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,cmake,latex" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=md,html,ts,js,css" />
+</p>
+---
+#### <img src="https://img.icons8.com/2266EE/code" width="22"/> Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,qt,django,flask,fastapi" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ros,astro,react,vue" />
+</p>
+
+---
+#### <img src="https://img.icons8.com/dusk/64/null/maintenance.png" width="22"/>  Dev Tools 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vim,vscode,arduino,docker,kubernetes,regex,cloudflare,kafka" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,postgres,redis,mongodb,sqlite,nodejs,nginx" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=anaconda,obsidian,powershell,bash,npm,pnpm,githubactions" />
+</p>
+---
+#### 🎨 Creative Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,au,blender,unreal&theme=dark&perline=7" />
+</p>
+
+---
+
+
+
+
+
+
+
+
+

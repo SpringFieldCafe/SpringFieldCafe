@@ -1,0 +1,76 @@
+# =========================
+# System files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Editor / IDE files
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Obsidian local settings
+# =========================
+.obsidian/
+
+# =========================
+# Git metadata from copied folders
+# Usually not needed in repo content
+# =========================
+.git/
+
+# =========================
+# Logs
+# =========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Node / frontend cache
+# =========================
+node_modules/
+.pnpm-store/
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.astro/
+dist/
+build/
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+# =========================
+# Archives
+# =========================
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+# =========================
+# Keep README assets
+# =========================
+!gif/
+!gif/wave.gif
