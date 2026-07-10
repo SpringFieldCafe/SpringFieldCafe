@@ -1,4 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1003&width=400&height=70&lines=Hi!+I'm+SpringFieldCafe!;Welcome+to+my+profile!)](https://git.io/typing-svg)<img src="./gif/wave.gif" width="70" height="70" alt="wave">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1003&center=true&vCenter=true&width=520&height=70&lines=Hi!+I'm+SpringFieldCafe!;Welcome+to+my+profile!"
+      alt="Typing SVG"
+    />
+  </a>
+  <img src="./gif/wave.gif" width="70" height="70" alt="wave" />
+</p>
 <p align="center">
   <a href="https://springfieldcafe.github.io/404/">
     <img src="https://img.shields.io/badge/Blog-Visit-8A2BE2?logo=porkbun&logoColor=white" />
@@ -32,34 +40,22 @@
 #### <img src="https://img.icons8.com/dusk/64/null/program.png" width="22"/> Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,cmake,latex" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=md,html,ts,js,css" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,cmake,latex,md,html,ts,js,css" />
 </p>
 ---
 #### <img src="https://img.icons8.com/2266EE/code" width="22"/> Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,qt,django,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,qt,django,flask,fastapi,ros,astro,react,vue" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,astro,react,vue" />
-</p>
-
 ---
 #### <img src="https://img.icons8.com/dusk/64/null/maintenance.png" width="22"/>  Dev Tools 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vim,vscode,arduino,docker,kubernetes,regex,cloudflare,kafka" />
+  <img src="https://skillicons.dev/icons?i=vim,vscode,arduino,docker,kubernetes,regex,cloudflare,kafka,git,linux,postgres" />
 </p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,postgres,redis,mongodb,sqlite,nodejs,nginx" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,obsidian,powershell,bash,npm,pnpm,githubactions" />
+  <img src="https://skillicons.dev/icons?i=anaconda,obsidian,powershell,bash,npm,pnpm,githubactions,redis,mongodb,sqlite,nodejs,nginx" />
 </p>
 ---
 #### 🎨 Creative Tools
