@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=1003&vCenter=true&width=460&height=70&lines=Hi!+I'm+SpringFieldCafe!;Welcome+to+my+profile!" alt="Typing SVG" /><img src="./gif/wave.gif" width="60" height="60" alt="wave" />
 </p>
 <p align="center">
-  <a href="https://springfieldcafe.github.io/404/"><img src="https://img.shields.io/badge/Blog-Visit-8A2BE2?logo=porkbun&logoColor=white" alt="Blog"></a>&nbsp;
-  <a href="https://space.bilibili.com/493693137"><img src="https://img.shields.io/badge/Bilibili-Follow-00A1D6?logo=bilibili&logoColor=white" alt="Bilibili"></a>&nbsp;
-  <a href="https://www.zhihu.com/people/a-zhe-31-50"><img src="https://img.shields.io/badge/Zhihu-Read-0084FF?logo=zhihu&logoColor=white" alt="Zhihu"></a>&nbsp;
-  <a href="https://blog.csdn.net/qq_40328089"><img src="https://img.shields.io/badge/CSDN-Articles-FC5531?logo=csdn&logoColor=white" alt="CSDN"></a>&nbsp;
+  <a href="https://springfieldcafe.github.io/404/"><img src="https://img.shields.io/badge/Blog-Visit-8A2BE2?logo=porkbun&logoColor=white" alt="Blog"></a>&ensp;&ensp;
+  <a href="https://space.bilibili.com/493693137"><img src="https://img.shields.io/badge/Bilibili-Follow-00A1D6?logo=bilibili&logoColor=white" alt="Bilibili"></a>&ensp;&ensp;
+  <a href="https://www.zhihu.com/people/a-zhe-31-50"><img src="https://img.shields.io/badge/Zhihu-Read-0084FF?logo=zhihu&logoColor=white" alt="Zhihu"></a>&ensp;&ensp;
+  <a href="https://blog.csdn.net/qq_40328089"><img src="https://img.shields.io/badge/CSDN-Articles-FC5531?logo=csdn&logoColor=white" alt="CSDN"></a>&ensp;&ensp;
   <a href="mailto:2574703489@qq.com"><img src="https://img.shields.io/badge/Email-Connect-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 <p align="center">
